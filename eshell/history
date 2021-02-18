@@ -1,0 +1,41 @@
+firefox-bin index.html 
+fc-cache -vf
+fc-list | grep Hack
+firefox-bin 
+ls
+cd
+exit
+ls
+firefox-bin index.html
+firefox-bin index.html 
+exit
+emacs ../Css/style.css
+sudo dhcpcd enp0s26u1u4
+exit
+sudo dhcpcd enp0s26u1u4
+exit
+ls
+ls
+ls
+clear
+clear
+exit
+ls
+./a 
+ls
+ls
+ls
+ls
+ls
+clear
+clear
+exit
+ls
+./a 
+ls
+clear
+exit
+ls
+clear
+clear
+exit
